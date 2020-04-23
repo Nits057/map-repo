@@ -1,0 +1,22 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "My sensational Nuxt.js project",
+  "author": "G0dlikecoder",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "leaflet": "^1.6.0",
+    "nuxt": "^2.0.0",
+    "nuxt-leaflet": "0.0.21",
+    "vue2-leaflet": "^2.5.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
